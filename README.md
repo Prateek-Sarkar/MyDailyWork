@@ -1,5 +1,8 @@
 #Here are my designs:
 
+<br>
+Author - Prateek Sarkar
+<br>
 The login Page:
 
 ![Login (MyInt)](https://github.com/user-attachments/assets/26993b34-5582-43c0-b4a8-fa53aa9df046)
